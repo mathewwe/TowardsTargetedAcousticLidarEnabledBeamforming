@@ -1,0 +1,144 @@
+Removed Pin From Net: NetName=NetC5_Amp1_2 Pin=J1_Amp1-2
+Removed Pin From Net: NetName=NetC1_Amp1_1 Pin=J1_Amp1-3
+Removed Pin From Net: NetName=NetC5_Amp2_2 Pin=J1_Amp2-2
+Removed Pin From Net: NetName=NetC1_Amp2_1 Pin=J1_Amp2-3
+Removed Pin From Net: NetName=NetC5_Amp3_2 Pin=J1_Amp3-2
+Removed Pin From Net: NetName=NetC1_Amp3_1 Pin=J1_Amp3-3
+Removed Pin From Net: NetName=NetC5_Amp4_2 Pin=J1_Amp4-2
+Removed Pin From Net: NetName=NetC1_Amp4_1 Pin=J1_Amp4-3
+Added Component: Designator=J4_Amp1(PTV09A4030FA103)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PTV09A-4030F-A103.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "30.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTV09A-4030F-A103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-PTV09A-4030FA103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4030F-A103?qs=BJlw7L4Cy79aPKOjvTfpfw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J4_Amp2(PTV09A4030FA103)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PTV09A-4030F-A103.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "30.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTV09A-4030F-A103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-PTV09A-4030FA103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4030F-A103?qs=BJlw7L4Cy79aPKOjvTfpfw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J4_Amp3(PTV09A4030FA103)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PTV09A-4030F-A103.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "30.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTV09A-4030F-A103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-PTV09A-4030FA103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4030F-A103?qs=BJlw7L4Cy79aPKOjvTfpfw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J4_Amp4(PTV09A4030FA103)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PTV09A-4030F-A103.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "30.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTV09A-4030F-A103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-PTV09A-4030FA103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4030F-A103?qs=BJlw7L4Cy79aPKOjvTfpfw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J5_Amp1(PTV09A4030FA103)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PTV09A-4030F-A103.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "30.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTV09A-4030F-A103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-PTV09A-4030FA103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4030F-A103?qs=BJlw7L4Cy79aPKOjvTfpfw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J5_Amp2(PTV09A4030FA103)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PTV09A-4030F-A103.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "30.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTV09A-4030F-A103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-PTV09A-4030FA103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4030F-A103?qs=BJlw7L4Cy79aPKOjvTfpfw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J5_Amp3(PTV09A4030FA103)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PTV09A-4030F-A103.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "30.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTV09A-4030F-A103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-PTV09A-4030FA103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4030F-A103?qs=BJlw7L4Cy79aPKOjvTfpfw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J5_Amp4(PTV09A4030FA103)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PTV09A-4030F-A103.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "30.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTV09A-4030F-A103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-PTV09A-4030FA103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4030F-A103?qs=BJlw7L4Cy79aPKOjvTfpfw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J4_Amp1-1
+Added Pin To Net: NetName=NetC5_Amp1_2 Pin=J4_Amp1-2
+Added Pin To Net: NetName=GND Pin=J4_Amp1-MH1
+Added Pin To Net: NetName=GND Pin=J4_Amp1-MH2
+Added Pin To Net: NetName=GND Pin=J4_Amp2-1
+Added Pin To Net: NetName=NetC5_Amp2_2 Pin=J4_Amp2-2
+Added Pin To Net: NetName=GND Pin=J4_Amp2-MH1
+Added Pin To Net: NetName=GND Pin=J4_Amp2-MH2
+Added Pin To Net: NetName=GND Pin=J4_Amp3-1
+Added Pin To Net: NetName=NetC5_Amp3_2 Pin=J4_Amp3-2
+Added Pin To Net: NetName=GND Pin=J4_Amp3-MH1
+Added Pin To Net: NetName=GND Pin=J4_Amp3-MH2
+Added Pin To Net: NetName=GND Pin=J4_Amp4-1
+Added Pin To Net: NetName=NetC5_Amp4_2 Pin=J4_Amp4-2
+Added Pin To Net: NetName=GND Pin=J4_Amp4-MH1
+Added Pin To Net: NetName=GND Pin=J4_Amp4-MH2
+Added Pin To Net: NetName=GND Pin=J5_Amp1-1
+Added Pin To Net: NetName=NetC1_Amp1_1 Pin=J5_Amp1-2
+Added Pin To Net: NetName=GND Pin=J5_Amp1-MH1
+Added Pin To Net: NetName=GND Pin=J5_Amp1-MH2
+Added Pin To Net: NetName=GND Pin=J5_Amp2-1
+Added Pin To Net: NetName=NetC1_Amp2_1 Pin=J5_Amp2-2
+Added Pin To Net: NetName=GND Pin=J5_Amp2-MH1
+Added Pin To Net: NetName=GND Pin=J5_Amp2-MH2
+Added Pin To Net: NetName=GND Pin=J5_Amp3-1
+Added Pin To Net: NetName=NetC1_Amp3_1 Pin=J5_Amp3-2
+Added Pin To Net: NetName=GND Pin=J5_Amp3-MH1
+Added Pin To Net: NetName=GND Pin=J5_Amp3-MH2
+Added Pin To Net: NetName=GND Pin=J5_Amp4-1
+Added Pin To Net: NetName=NetC1_Amp4_1 Pin=J5_Amp4-2
+Added Pin To Net: NetName=GND Pin=J5_Amp4-MH1
+Added Pin To Net: NetName=GND Pin=J5_Amp4-MH2
+Added Pin To Net: NetName=NetJ1_Amp1_2 Pin=J1_Amp1-2
+Added Pin To Net: NetName=NetJ1_Amp1_2 Pin=J4_Amp1-3
+Added Net: Name=NetJ1_Amp1_2
+Added Pin To Net: NetName=NetJ1_Amp1_3 Pin=J1_Amp1-3
+Added Pin To Net: NetName=NetJ1_Amp1_3 Pin=J5_Amp1-3
+Added Net: Name=NetJ1_Amp1_3
+Added Pin To Net: NetName=NetJ1_Amp2_2 Pin=J1_Amp2-2
+Added Pin To Net: NetName=NetJ1_Amp2_2 Pin=J4_Amp2-3
+Added Net: Name=NetJ1_Amp2_2
+Added Pin To Net: NetName=NetJ1_Amp2_3 Pin=J1_Amp2-3
+Added Pin To Net: NetName=NetJ1_Amp2_3 Pin=J5_Amp2-3
+Added Net: Name=NetJ1_Amp2_3
+Added Pin To Net: NetName=NetJ1_Amp3_2 Pin=J1_Amp3-2
+Added Pin To Net: NetName=NetJ1_Amp3_2 Pin=J4_Amp3-3
+Added Net: Name=NetJ1_Amp3_2
+Added Pin To Net: NetName=NetJ1_Amp3_3 Pin=J1_Amp3-3
+Added Pin To Net: NetName=NetJ1_Amp3_3 Pin=J5_Amp3-3
+Added Net: Name=NetJ1_Amp3_3
+Added Pin To Net: NetName=NetJ1_Amp4_2 Pin=J1_Amp4-2
+Added Pin To Net: NetName=NetJ1_Amp4_2 Pin=J4_Amp4-3
+Added Net: Name=NetJ1_Amp4_2
+Added Pin To Net: NetName=NetJ1_Amp4_3 Pin=J1_Amp4-3
+Added Pin To Net: NetName=NetJ1_Amp4_3 Pin=J5_Amp4-3
+Added Net: Name=NetJ1_Amp4_3
+Added Member To Class: ClassName=Amp1 Member=Component J4_Amp1 (J4) PTV09A-4030F-A103
+Added Member To Class: ClassName=Amp2 Member=Component J4_Amp2 (J4) PTV09A-4030F-A103
+Added Member To Class: ClassName=Amp3 Member=Component J4_Amp3 (J4) PTV09A-4030F-A103
+Added Member To Class: ClassName=Amp4 Member=Component J4_Amp4 (J4) PTV09A-4030F-A103
+Added Member To Class: ClassName=Amp1 Member=Component J5_Amp1 (J5) PTV09A-4030F-A103
+Added Member To Class: ClassName=Amp2 Member=Component J5_Amp2 (J5) PTV09A-4030F-A103
+Added Member To Class: ClassName=Amp3 Member=Component J5_Amp3 (J5) PTV09A-4030F-A103
+Added Member To Class: ClassName=Amp4 Member=Component J5_Amp4 (J5) PTV09A-4030F-A103

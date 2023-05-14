@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Amp_8ch.PrjPcb]
+   Generated File[Amp_8ch-Plated.TXT]
+   Generated File[Amp_8ch-NonPlated.TXT]
+   Generated File[Amp_8ch.LDP]
+   Generated File[Amp_8ch.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:54:11 PM On 3/1/2023

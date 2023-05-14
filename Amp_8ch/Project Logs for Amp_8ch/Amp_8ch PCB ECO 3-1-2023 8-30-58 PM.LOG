@@ -1,0 +1,56 @@
+Added Component: Designator=J1_Amp_12(35RAPC5CHWNSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.switchcraft.com/assets/1/6/35RAPC5CHWNSN_CD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Switchcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "35RAPC5CHWNSN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "502-35RAPC5CHWNSN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Switchcraft/35RAPC5CHWNSN?qs=tlsG%2FOw5FFhDrydSbX%252BonQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_Amp_34(35RAPC5CHWNSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.switchcraft.com/assets/1/6/35RAPC5CHWNSN_CD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Switchcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "35RAPC5CHWNSN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "502-35RAPC5CHWNSN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Switchcraft/35RAPC5CHWNSN?qs=tlsG%2FOw5FFhDrydSbX%252BonQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_Amp_56(35RAPC5CHWNSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.switchcraft.com/assets/1/6/35RAPC5CHWNSN_CD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Switchcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "35RAPC5CHWNSN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "502-35RAPC5CHWNSN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Switchcraft/35RAPC5CHWNSN?qs=tlsG%2FOw5FFhDrydSbX%252BonQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1_Amp_78(35RAPC5CHWNSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.switchcraft.com/assets/1/6/35RAPC5CHWNSN_CD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Switchcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "35RAPC5CHWNSN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "502-35RAPC5CHWNSN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Switchcraft/35RAPC5CHWNSN?qs=tlsG%2FOw5FFhDrydSbX%252BonQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1_Amp_12-1
+Added Pin To Net: NetName=NetJ1_Amp_12_2 Pin=J1_Amp_12-2
+Added Pin To Net: NetName=NetJ1_Amp_12_3 Pin=J1_Amp_12-3
+Added Pin To Net: NetName=GND Pin=J1_Amp_12-4
+Added Pin To Net: NetName=GND Pin=J1_Amp_34-1
+Added Pin To Net: NetName=NetJ1_Amp_34_2 Pin=J1_Amp_34-2
+Added Pin To Net: NetName=NetJ1_Amp_34_3 Pin=J1_Amp_34-3
+Added Pin To Net: NetName=GND Pin=J1_Amp_34-4
+Added Pin To Net: NetName=GND Pin=J1_Amp_56-1
+Added Pin To Net: NetName=NetJ1_Amp_56_2 Pin=J1_Amp_56-2
+Added Pin To Net: NetName=NetJ1_Amp_56_3 Pin=J1_Amp_56-3
+Added Pin To Net: NetName=GND Pin=J1_Amp_56-4
+Added Pin To Net: NetName=GND Pin=J1_Amp_78-1
+Added Pin To Net: NetName=NetJ1_Amp_78_2 Pin=J1_Amp_78-2
+Added Pin To Net: NetName=NetJ1_Amp_78_3 Pin=J1_Amp_78-3
+Added Pin To Net: NetName=GND Pin=J1_Amp_78-4
+Added Member To Class: ClassName=Amp_12 Member=Component J1_Amp_12 (J1) 35RAPC5CHWNSN
+Added Member To Class: ClassName=Amp_34 Member=Component J1_Amp_34 (J1) 35RAPC5CHWNSN
+Added Member To Class: ClassName=Amp_56 Member=Component J1_Amp_56 (J1) 35RAPC5CHWNSN
+Added Member To Class: ClassName=Amp_78 Member=Component J1_Amp_78 (J1) 35RAPC5CHWNSN

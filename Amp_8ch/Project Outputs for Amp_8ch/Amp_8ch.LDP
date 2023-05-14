@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\Amp_8ch\Amp_8ch.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=amp_8ch-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=amp_8ch-nonplated.txt|DrillLayers=gtl,gbl

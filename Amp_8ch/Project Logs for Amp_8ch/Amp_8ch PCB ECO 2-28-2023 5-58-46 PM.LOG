@@ -1,0 +1,13 @@
+Added Component: Designator=PWR(43650-02YY_18192063)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/436500218_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "43650-0220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-43650-0220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/43650-0220?qs=zhePCb1yaFPcr0mO6F%252BhcQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=PWR-1
+Added Pin To Net: NetName=GND Pin=PWR-2
+Added Class: Name=Amp_8ch
+Added Room: Name=Amp_8ch
